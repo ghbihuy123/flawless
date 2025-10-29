@@ -1,1 +1,11 @@
-**/traffic*
+**/traffic_buddy*
+
+# training data
+**/TT100K/*
+**/nosign_1.zip
+**/tt100k_2021.zip
+**/NoSign
+**/dataset
+
+**/runs
+**/__pycache__

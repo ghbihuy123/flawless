@@ -1,0 +1,1029 @@
+{
+  "pl80": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl80): giá trị 80 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl80): value 80 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w9": {
+    "vi": "Biển cảnh báo (ký hiệu w9): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w9): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p6": {
+    "vi": "Biển cấm (P6): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P6): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "ph4.2": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 4.2 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 4.2 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i8": {
+    "vi": "Biển chỉ dẫn (I8): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I8): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w14": {
+    "vi": "Biển cảnh báo (ký hiệu w14): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w14): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w33": {
+    "vi": "Biển cảnh báo (ký hiệu w33): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w33): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pa13": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa13): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa13): indicates a prohibition or restriction; road users must comply."
+  },
+  "im": {
+    "vi": "Biển thông tin bổ sung/biển phụ",
+    "en": "Supplementary/Information plate",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w58": {
+    "vi": "Biển cảnh báo (ký hiệu w58): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w58): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl90": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl90): giá trị 90 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl90): value 90 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "il70": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il70): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il70): provides direction or mandatory instructions for road users."
+  },
+  "p5": {
+    "vi": "Biển cấm (P5): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P5): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pm55": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 55 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 55 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pl60": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl60): giá trị 60 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl60): value 60 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ip": {
+    "vi": "Biển chỉ đường/biển phụ chỉ vị trí trạm kiểm soát/qua cầu",
+    "en": "Guide/indicative sign (position of control/checkpoint or bridge)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p11": {
+    "vi": "Biển cấm (P11): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P11): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pdd": {
+    "vi": "Biển dừng chờ/đi chậm (inferred)",
+    "en": "Stop/wait or slow-down advisory (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "wc": {
+    "vi": "Khu vực có WC/nơi nghỉ",
+    "en": "Toilet/rest area (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i2r": {
+    "vi": "Biển chỉ dẫn (I2r): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I2r): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w30": {
+    "vi": "Biển cảnh báo (ký hiệu w30): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w30): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pmr": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pmr): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pmr): indicates a prohibition or restriction; road users must comply."
+  },
+  "p23": {
+    "vi": "Biển cấm (P23): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P23): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pl15": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl15): giá trị 15 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl15): value 15 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm10": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 10 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 10 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pss": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pss): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pss): indicates a prohibition or restriction; road users must comply."
+  },
+  "w1": {
+    "vi": "Biển cảnh báo (ký hiệu w1): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w1): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p4": {
+    "vi": "Biển cấm (P4): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P4): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w38": {
+    "vi": "Biển cảnh báo (ký hiệu w38): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w38): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w50": {
+    "vi": "Biển cảnh báo (ký hiệu w50): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w50): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w34": {
+    "vi": "Biển cảnh báo (ký hiệu w34): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w34): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pw3.5": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 3.5 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 3.5 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "iz": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu iz): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code iz): provides direction or mandatory instructions for road users."
+  },
+  "w39": {
+    "vi": "Biển cảnh báo (ký hiệu w39): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w39): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w11": {
+    "vi": "Biển cảnh báo (ký hiệu w11): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w11): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p1n": {
+    "vi": "Biển cấm/hạn chế (ký hiệu p1n): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code p1n): indicates a prohibition or restriction; road users must comply."
+  },
+  "pr70": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr70): hiển thị giá trị 70 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr70): displays value 70 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pd": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pd): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pd): indicates a prohibition or restriction; road users must comply."
+  },
+  "pnl": {
+    "vi": "Biển liên quan đến chỗ đỗ/không đỗ (ký hiệu pnl): chỉ dẫn/ cấm dừng/đỗ theo ký hiệu phụ.",
+    "en": "Parking/No-parking related sign (code pnl): indicates parking or no-parking rules, possibly with supplementary plates.",
+    "_note": "inferred: 'pn' family = parking related. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pg": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pg): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pg): indicates a prohibition or restriction; road users must comply."
+  },
+  "ph5.3": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 5.3 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 5.3 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w66": {
+    "vi": "Biển cảnh báo (ký hiệu w66): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w66): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "il80": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il80): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il80): provides direction or mandatory instructions for road users."
+  },
+  "pb": {
+    "vi": "Biển phụ/biển báo phụ (inferred)",
+    "en": "Supplementary sign (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pbm": {
+    "vi": "Biển phụ dạng mũi tên/biển phụ điều chỉnh (inferred)",
+    "en": "Supplementary arrow/adjustment plate (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm5": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 5 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 5 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w24": {
+    "vi": "Biển cảnh báo (ký hiệu w24): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w24): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w67": {
+    "vi": "Biển cảnh báo (ký hiệu w67): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w67): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w49": {
+    "vi": "Biển cảnh báo (ký hiệu w49): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w49): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pm40": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 40 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 40 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph4": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 4 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 4 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w45": {
+    "vi": "Biển cảnh báo (ký hiệu w45): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w45): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "i4": {
+    "vi": "Biển chỉ dẫn (I4): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I4): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w37": {
+    "vi": "Biển cảnh báo (ký hiệu w37): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w37): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph2.6": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.6 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.6 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pl70": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl70): giá trị 70 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl70): value 70 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph5.5": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 5.5 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 5.5 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i14": {
+    "vi": "Biển chỉ dẫn (I14): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I14): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "i11": {
+    "vi": "Biển chỉ dẫn (I11): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I11): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "p7": {
+    "vi": "Biển cấm (P7): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P7): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "p29": {
+    "vi": "Biển cấm (P29): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P29): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pne": {
+    "vi": "Biển liên quan đến lối vào/ra (inferred)",
+    "en": "Entrance/exit related (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pr60": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr60): hiển thị giá trị 60 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr60): displays value 60 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm13": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 13 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 13 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph4.5": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 4.5 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 4.5 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p12": {
+    "vi": "Biển cấm (P12): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P12): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "p3": {
+    "vi": "Biển cấm (P3): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P3): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w40": {
+    "vi": "Biển cảnh báo (ký hiệu w40): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w40): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl5": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl5): giá trị 5 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl5): value 5 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w13": {
+    "vi": "Biển cảnh báo (ký hiệu w13): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w13): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pr10": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr10): hiển thị giá trị 10 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr10): displays value 10 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p14": {
+    "vi": "Biển cấm (P14): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P14): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "i4l": {
+    "vi": "Biển chỉ dẫn (I4l): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I4l): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "pr30": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr30): hiển thị giá trị 30 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr30): displays value 30 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pw4.2": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 4.2 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 4.2 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w16": {
+    "vi": "Biển cảnh báo (ký hiệu w16): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w16): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p17": {
+    "vi": "Biển cấm (P17): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P17): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "ph3": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 3 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 3 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i9": {
+    "vi": "Biển chỉ dẫn (I9): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I9): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w15": {
+    "vi": "Biển cảnh báo (ký hiệu w15): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w15): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w35": {
+    "vi": "Biển cảnh báo (ký hiệu w35): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w35): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pa8": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa8): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa8): indicates a prohibition or restriction; road users must comply."
+  },
+  "pt": {
+    "vi": "Biển liên quan trạm thu phí/paid toll",
+    "en": "Toll station sign (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pr45": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr45): hiển thị giá trị 45 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr45): displays value 45 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w17": {
+    "vi": "Biển cảnh báo (ký hiệu w17): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w17): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl30": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl30): giá trị 30 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl30): value 30 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pcs": {
+    "vi": "Biển chỉ dẫn đặc biệt (inferred)",
+    "en": "Special instruction (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pctl": {
+    "vi": "Biển liên quan cấm/giới hạn theo tuyến (inferred)",
+    "en": "Route-based control (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pr50": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr50): hiển thị giá trị 50 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr50): displays value 50 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph4.4": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 4.4 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 4.4 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm46": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 46 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 46 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm35": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 35 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 35 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i15": {
+    "vi": "Biển chỉ dẫn (I15): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I15): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "pa12": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa12): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa12): indicates a prohibition or restriction; road users must comply."
+  },
+  "pclr": {
+    "vi": "Biển hoặc ký hiệu liên quan màu sắc/chiều (inferred)",
+    "en": "Color/clarification plate (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i1": {
+    "vi": "Biển chỉ dẫn (I1): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I1): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "pcd": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pcd): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pcd): indicates a prohibition or restriction; road users must comply."
+  },
+  "pbp": {
+    "vi": "Biển phụ chỉ giới hạn điểm (inferred)",
+    "en": "Point-based supplementary plate (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pcr": {
+    "vi": "Biển điều chỉnh/giới hạn (inferred)",
+    "en": "Control/regulatory (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w28": {
+    "vi": "Biển cảnh báo (ký hiệu w28): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w28): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ps": {
+    "vi": "Biển 'Stop' hoặc dừng lại (in many standards 'ps' = stop)",
+    "en": "Stop sign (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm8": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 8 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 8 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w18": {
+    "vi": "Biển cảnh báo (ký hiệu w18): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w18): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w2": {
+    "vi": "Biển cảnh báo (ký hiệu w2): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w2): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w52": {
+    "vi": "Biển cảnh báo (ký hiệu w52): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w52): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph2.9": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.9 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.9 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph1.8": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 1.8 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 1.8 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pe": {
+    "vi": "Biển chỉ dẫn chiều đi hoặc cấm (inferred)",
+    "en": "Direction/entry sign (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p20": {
+    "vi": "Biển cấm (P20): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P20): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w36": {
+    "vi": "Biển cảnh báo (ký hiệu w36): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w36): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p10": {
+    "vi": "Biển cấm (P10): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P10): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pn": {
+    "vi": "Biển liên quan đến chỗ đỗ/không đỗ (ký hiệu pn): chỉ dẫn/ cấm dừng/đỗ theo ký hiệu phụ.",
+    "en": "Parking/No-parking related sign (code pn): indicates parking or no-parking rules, possibly with supplementary plates.",
+    "_note": "inferred: 'pn' family = parking related. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pa14": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa14): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa14): indicates a prohibition or restriction; road users must comply."
+  },
+  "w54": {
+    "vi": "Biển cảnh báo (ký hiệu w54): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w54): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph3.2": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 3.2 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 3.2 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p2": {
+    "vi": "Biển cấm (P2): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P2): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "ph2.5": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.5 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.5 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w62": {
+    "vi": "Biển cảnh báo (ký hiệu w62): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w62): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w55": {
+    "vi": "Biển cảnh báo (ký hiệu w55): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w55): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pw3": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 3 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 3 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pw4.5": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 4.5 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 4.5 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i12": {
+    "vi": "Biển chỉ dẫn (I12): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I12): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "ph4.3": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 4.3 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 4.3 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "phclr": {
+    "vi": "Biển giới hạn chiều cao có ký hiệu màu (inferred)",
+    "en": "Colored height restriction (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i10": {
+    "vi": "Biển chỉ dẫn (I10): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I10): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "pr5": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr5): hiển thị giá trị 5 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr5): displays value 5 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i13": {
+    "vi": "Biển chỉ dẫn (I13): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I13): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w10": {
+    "vi": "Biển cảnh báo (ký hiệu w10): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w10): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p26": {
+    "vi": "Biển cấm (P26): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P26): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w26": {
+    "vi": "Biển cảnh báo (ký hiệu w26): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w26): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p8": {
+    "vi": "Biển cấm (P8): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P8): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w5": {
+    "vi": "Biển cảnh báo (ký hiệu w5): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w5): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w42": {
+    "vi": "Biển cảnh báo (ký hiệu w42): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w42): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "il50": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il50): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il50): provides direction or mandatory instructions for road users."
+  },
+  "p13": {
+    "vi": "Biển cấm (P13): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P13): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pr40": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr40): hiển thị giá trị 40 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr40): displays value 40 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p25": {
+    "vi": "Biển cấm (P25): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P25): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w41": {
+    "vi": "Biển cảnh báo (ký hiệu w41): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w41): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl20": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl20): giá trị 20 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl20): value 20 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph4.8": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 4.8 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 4.8 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pnlc": {
+    "vi": "Biển liên quan đỗ xe (inferred)",
+    "en": "Parking no-left/complex (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph3.3": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 3.3 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 3.3 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w29": {
+    "vi": "Biển cảnh báo (ký hiệu w29): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w29): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph2.1": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.1 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.1 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w53": {
+    "vi": "Biển cảnh báo (ký hiệu w53): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w53): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pm30": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 30 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 30 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p24": {
+    "vi": "Biển cấm (P24): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P24): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "p21": {
+    "vi": "Biển cấm (P21): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P21): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pl40": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl40): giá trị 40 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl40): value 40 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w27": {
+    "vi": "Biển cảnh báo (ký hiệu w27): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w27): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pmb": {
+    "vi": "Biển phụ (inferred)",
+    "en": "Supplementary sign (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pc": {
+    "vi": "Biển cấm/giới hạn (pc): ký hiệu phụ, cần tham chiếu biểu tượng",
+    "en": "Prohibitory/Control sign (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i6": {
+    "vi": "Biển chỉ dẫn (I6): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I6): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "pr20": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr20): hiển thị giá trị 20 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr20): displays value 20 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p18": {
+    "vi": "Biển cấm (P18): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P18): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "ph3.8": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 3.8 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 3.8 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm50": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 50 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 50 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm25": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 25 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 25 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i2": {
+    "vi": "Biển chỉ dẫn (I2): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I2): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w22": {
+    "vi": "Biển cảnh báo (ký hiệu w22): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w22): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w47": {
+    "vi": "Biển cảnh báo (ký hiệu w47): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w47): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w56": {
+    "vi": "Biển cảnh báo (ký hiệu w56): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w56): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl120": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl120): giá trị 120 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl120): value 120 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph2.8": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.8 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.8 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i7": {
+    "vi": "Biển chỉ dẫn (I7): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I7): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "w12": {
+    "vi": "Biển cảnh báo (ký hiệu w12): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w12): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pm1.5": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 1.5 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 1.5 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm2.5": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 2.5 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 2.5 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w32": {
+    "vi": "Biển cảnh báo (ký hiệu w32): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w32): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pm15": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 15 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 15 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "ph5": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 5 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 5 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w19": {
+    "vi": "Biển cảnh báo (ký hiệu w19): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w19): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pw3.2": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 3.2 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 3.2 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pw2.5": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 2.5 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 2.5 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pl10": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl10): giá trị 10 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl10): value 10 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "il60": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il60): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il60): provides direction or mandatory instructions for road users."
+  },
+  "w57": {
+    "vi": "Biển cảnh báo (ký hiệu w57): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w57): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w48": {
+    "vi": "Biển cảnh báo (ký hiệu w48): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w48): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w60": {
+    "vi": "Biển cảnh báo (ký hiệu w60): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w60): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl100": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl100): giá trị 100 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl100): value 100 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pr80": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr80): hiển thị giá trị 80 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr80): displays value 80 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p16": {
+    "vi": "Biển cấm (P16): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P16): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pl110": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl110): giá trị 110 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl110): value 110 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w59": {
+    "vi": "Biển cảnh báo (ký hiệu w59): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w59): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w64": {
+    "vi": "Biển cảnh báo (ký hiệu w64): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w64): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w20": {
+    "vi": "Biển cảnh báo (ký hiệu w20): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w20): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph2": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p9": {
+    "vi": "Biển cấm (P9): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P9): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "il100": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il100): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il100): provides direction or mandatory instructions for road users."
+  },
+  "w31": {
+    "vi": "Biển cảnh báo (ký hiệu w31): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w31): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w65": {
+    "vi": "Biển cảnh báo (ký hiệu w65): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w65): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph2.4": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.4 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.4 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pr100": {
+    "vi": "Biển chỉ giới hạn/giá trị (ký hiệu pr100): hiển thị giá trị 100 (inferred: có thể là giới hạn tốc độ hoặc chỉ dẫn khác).",
+    "en": "Value sign (code pr100): displays value 100 (inferred: possibly a speed or other actionable limit).",
+    "_note": "inferred: 'pr' numeric; verify with standard. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p19": {
+    "vi": "Biển cấm (P19): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P19): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "ph3.5": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 3.5 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 3.5 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pa10": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa10): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa10): indicates a prohibition or restriction; road users must comply."
+  },
+  "pcl": {
+    "vi": "Biển phụ/biển cảnh báo phụ (inferred)",
+    "en": "Supplementary plate (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pl35": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl35): giá trị 35 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl35): value 35 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "p15": {
+    "vi": "Biển cấm (P15): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P15): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w7": {
+    "vi": "Biển cảnh báo (ký hiệu w7): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w7): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pa6": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa6): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa6): indicates a prohibition or restriction; road users must comply."
+  },
+  "phcs": {
+    "vi": "Biển giới hạn chiều cao dạng cố định đặc biệt (inferred)",
+    "en": "Special height restriction (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w43": {
+    "vi": "Biển cảnh báo (ký hiệu w43): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w43): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p28": {
+    "vi": "Biển cấm (P28): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P28): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w6": {
+    "vi": "Biển cảnh báo (ký hiệu w6): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w6): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w3": {
+    "vi": "Biển cảnh báo (ký hiệu w3): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w3): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w25": {
+    "vi": "Biển cảnh báo (ký hiệu w25): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w25): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pl25": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl25): giá trị 25 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl25): value 25 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "il110": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il110): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il110): provides direction or mandatory instructions for road users."
+  },
+  "p1": {
+    "vi": "Biển cấm (P1): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P1): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "w46": {
+    "vi": "Biển cảnh báo (ký hiệu w46): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w46): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pn-2": {
+    "vi": "Biển liên quan đến chỗ đỗ/không đỗ (ký hiệu pn-2): chỉ dẫn/ cấm dừng/đỗ theo ký hiệu phụ.",
+    "en": "Parking/No-parking related sign (code pn-2): indicates parking or no-parking rules, possibly with supplementary plates.",
+    "_note": "inferred: 'pn' family = parking related. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w51": {
+    "vi": "Biển cảnh báo (ký hiệu w51): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w51): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w44": {
+    "vi": "Biển cảnh báo (ký hiệu w44): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w44): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w63": {
+    "vi": "Biển cảnh báo (ký hiệu w63): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w63): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "w23": {
+    "vi": "Biển cảnh báo (ký hiệu w23): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w23): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pm20": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 20 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 20 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w8": {
+    "vi": "Biển cảnh báo (ký hiệu w8): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w8): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "pmblr": {
+    "vi": "Biển giới hạn khối lượng trục (inferred)",
+    "en": "Axle-load limit (inferred)",
+    "_note": "inferred: special-case code. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w4": {
+    "vi": "Biển cảnh báo (ký hiệu w4): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w4): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "i5": {
+    "vi": "Biển chỉ dẫn (I5): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I5): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "il90": {
+    "vi": "Biển chỉ dẫn/khuyến cáo (ký hiệu il90): hướng dẫn hoặc bắt buộc người tham gia giao thông đi theo chỉ dẫn.",
+    "en": "Instruction/mandatory sign (code il90): provides direction or mandatory instructions for road users."
+  },
+  "w21": {
+    "vi": "Biển cảnh báo (ký hiệu w21): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w21): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "p27": {
+    "vi": "Biển cấm (P27): cấm một hành vi giao thông cụ thể (ví dụ: cấm quay đầu, cấm rẽ, cấm xe cơ giới...); xem biểu tượng để biết hành vi bị cấm.",
+    "en": "Prohibitory sign (P27): prohibits a specific traffic action (e.g., no U-turn, no left turn, no motor vehicles); refer to symbol for exact prohibition."
+  },
+  "pl50": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl50): giá trị 50 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl50): value 50 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pl65": {
+    "vi": "Biển hạn chế giới hạn (ký hiệu pl65): giá trị 65 được thể hiện trên biển (inferred: có thể là giới hạn tốc độ hoặc giới hạn khác theo ngữ cảnh).",
+    "en": "Limit sign (code pl65): value 65 displayed on sign (inferred: may indicate speed or other numeric limit depending on context).",
+    "_note": "inferred: 'pl' is numeric-labeled limit; confirm exact meaning from reference. Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "w61": {
+    "vi": "Biển cảnh báo (ký hiệu w61): cảnh báo nguy hiểm trên đường phía trước; xe cơ giới cần chú ý, giảm tốc và quan sát.",
+    "en": "Warning sign (code w61): warns of a hazard ahead; drivers should be cautious, slow down and observe."
+  },
+  "ph2.2": {
+    "vi": "Biển hạn chế chiều cao: cấm những phương tiện có chiều cao vượt quá 2.2 mét đi qua. Lái xe cần chú ý chiều cao hàng hóa và tải.",
+    "en": "Height restriction sign: prohibits vehicles taller than 2.2 m from passing. Drivers must check vehicle/load height.",
+    "_note": "inferred: 'ph' interpreted as height (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "pm2": {
+    "vi": "Biển hạn chế trọng tải: cấm xe có khối lượng toàn phần trên 2 tấn đi qua (áp dụng cho trục hoặc tổng tải tuỳ biển).",
+    "en": "Weight limit sign: prohibits vehicles with gross weight over 2 tonnes from passing (may apply to axle or total weight depending on sign).",
+    "_note": "inferred: 'pm' interpreted as permissible mass/weight (tấn). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  },
+  "i3": {
+    "vi": "Biển chỉ dẫn (I3): chỉ dẫn hướng đi hoặc hành vi bắt buộc; thường là mũi tên hoặc biểu tượng phương tiện.",
+    "en": "Mandatory/directional sign (I3): instructs a direction or mandatory action; commonly arrows or vehicle icons."
+  },
+  "pa18": {
+    "vi": "Biển cấm/hạn chế (ký hiệu pa18): báo hiệu cấm hoặc hạn chế hành vi giao thông cụ thể; người tham gia giao thông phải tuân thủ.",
+    "en": "Prohibitory/regulatory sign (code pa18): indicates a prohibition or restriction; road users must comply."
+  },
+  "pw4": {
+    "vi": "Biển hạn chế bề rộng: cấm những phương tiện có bề rộng lớn hơn 4 mét đi qua.",
+    "en": "Width restriction sign: prohibits vehicles wider than 4 m from passing.",
+    "_note": "inferred: 'pw' interpreted as width (m). Descriptions inferred from code pattern and provided image; please verify with official standard QCVN 41:2019."
+  }
+}
