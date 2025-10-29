@@ -1,0 +1,75 @@
+# dataset.yaml — định nghĩa dataset cho YOLOv11
+
+# path into dataset
+path: ./dataset          # thư mục gốc (train/val nằm trong đây)
+
+# train, val, test path
+train: train/images
+val: val/images
+test: test/images
+
+# number of class
+nc: 58                   # số class biển báo (ví dụ TT100K có 58 loại)
+
+# details of class
+names:
+  - i1
+  - i10
+  - i11
+  - i12
+  - i13
+  - i14
+  - i15
+  - i2
+  - i3
+  - i4
+  - i5
+  - i6
+  - i7
+  - i8
+  - i9
+  - il100
+  - il110
+  - il120
+  - il20
+  - il30
+  - il40
+  - il50
+  - il60
+  - il70
+  - il80
+  - il90
+  - io
+  - ip
+  - p1
+  - p10
+  - p11
+  - p12
+  - p13
+  - p14
+  - p15
+  - p16
+  - p17
+  - p18
+  - p19
+  - p2
+  - p20
+  - p21
+  - p22
+  - p23
+  - p24
+  - p25
+  - p26
+  - p27
+  - p28
+  - p3
+  - p4
+  - p5
+  - p6
+  - p7
+  - p8
+  - p9
+  - pa10
+  - pb
+  - pc
+  - pg
